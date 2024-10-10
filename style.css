@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+
+.hi {
+    background-color: black;
+    width: 250px;
+    height: auto;
+    color: white;
+    border-radius: 10px;
+}
+
+button {
+    width: 250px;
+    height: 35px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+a {
+    margin: 50px;
+}
+
+h2{
+    text-align: center;
+}
+b{
+    text-align: center;
+}
